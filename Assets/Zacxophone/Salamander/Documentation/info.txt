@@ -1,0 +1,30 @@
+Hey, thank you so much for purchasing my Salamander!
+This asset contains X rigged, textured and animated Salamander
+
+This project supports 3 render pipelines (Built-in, URP and HDRP), so I had to make some concessions and tidy up the project accordingly. Sorry for the inconvenience.
+
+Import:
+Check all the files you need and the correct pipeline folder. uncheck the two other pipeline folder to proprely import it
+
+Animation:
+This model is supplied with 4 animations:
+1 walking cycle, 1 idle cycle, 2 transitions
+
+You can find all the animations directly inside the ___ fbx file contained in the "Meshes" folder
+I also added an animator example (Inside the "DemoAnimator" folder) that loops between all animations.
+
+Materials and textures:
+1 material made up of 3 textures (2048px):
+- Albedo
+- Metallic Smoothness
+- Normal map
+
+(plus the HDRP MaskMap)
+
+You will also find a demo scene featuring the Salamander and the animator
+
+Thank you again, if you have any questions feel free to contact me by email or Instagram
+Zack
+
+zacxophone3d@gmail.com
+https://www.instagram.com/zacxophone_/
